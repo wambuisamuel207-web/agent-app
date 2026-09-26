@@ -1,0 +1,6 @@
+{
+  "name": "DevAgent",
+  "description": "Autonomous software engineer and automation platform for full-stack systems, workflows, DevOps, and stack trace diagnosis with High Thinking.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
